@@ -1,3 +1,3 @@
 # echo-kafka-producer-example
 
-> $ go run server.go
+> $ go run server.go 
